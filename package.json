@@ -1,0 +1,40 @@
+{
+  "name": "rn-datatable",
+  "version": "1.1.2",
+  "description": "A React Native datatable component for dynamically perform actions like display, sorting, select, custom design, delete & touch events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagintel/rn-datatable"
+  },
+  "keywords": [
+    "react-native-datatable",
+    "react native datatable",
+    "native datatable",
+    "datatable",
+    "table",
+    "react-native-table",
+    "react native table"
+  ],
+  "files": [
+    "assets",
+    "functions",
+    "src",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "author": "Sagintel <lodbujana75@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sagintel/rn-datatable/issues"
+  },
+  "peerDependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.2"
+  },
+  "homepage": "https://github.com/sagintel/rn-datatable#readme"
+}
